@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Food-Menu-Card/static/css/main.17655c3c.css",
+    "main.js": "/Food-Menu-Card/static/js/main.6da3e1fb.js",
+    "static/js/787.44d652fe.chunk.js": "/Food-Menu-Card/static/js/787.44d652fe.chunk.js",
+    "index.html": "/Food-Menu-Card/index.html",
+    "main.17655c3c.css.map": "/Food-Menu-Card/static/css/main.17655c3c.css.map",
+    "main.6da3e1fb.js.map": "/Food-Menu-Card/static/js/main.6da3e1fb.js.map",
+    "787.44d652fe.chunk.js.map": "/Food-Menu-Card/static/js/787.44d652fe.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.17655c3c.css",
+    "static/js/main.6da3e1fb.js"
+  ]
+}
